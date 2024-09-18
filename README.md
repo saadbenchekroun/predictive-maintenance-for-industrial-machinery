@@ -52,7 +52,7 @@ The AI system is designed to monitor sensor data in real-time and use mathematic
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/predictive-maintenance-ai.git
+git clone https://github.com/saadbenchekroun/root-finding-interpolation-algorithms/
 ```
 
 ### Usage
@@ -94,7 +94,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
-```
-
-This `README.md` gives a clear overview of the AI-powered predictive maintenance system, outlines the features and structure, and provides basic usage instructions, making it suitable for a GitHub repository.
+For any inquiries, please contact [saadbenchekrun@gmail.com](saadbenchekrun@gmail.com).
