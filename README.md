@@ -7,6 +7,9 @@ This repository contains the implementation of an AI-powered predictive maintena
 The AI system is designed to monitor sensor data in real-time and use mathematical techniques to provide insights on machine health. The project focuses on:
 
 - **Signal Processing with DFT (Discrete Fourier Transform)**: Converts time-domain sensor data into the frequency domain to detect patterns and anomalies.
+![sensors-14-00382f4](https://github.com/user-attachments/assets/c3589154-e940-47bc-aec5-9ba67f1c0d78)
+
+
 - **Predictive Modeling with Newton's Divided Difference**: Builds an interpolation model to predict future machine conditions and key performance indicators (KPIs).
 - **Optimization with Newton's Method**: Identifies optimal machine parameters, such as temperature and pressure, to maintain efficiency and avoid breakdowns.
 - **Avoiding Overfitting using Runge's Phenomenon**: Ensures the predictive model generalizes well and avoids overfitting when making predictions.
